@@ -1,4 +1,5 @@
 # Google Chart for Yii2 Framework
+![Demo]<http://yii2.kadastrcard.ru/googlechart>
 
 The extension uses Google library https://www.gstatic.com/charts/loader.js and makes chart from php array of structure defined.
 
